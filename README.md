@@ -109,13 +109,13 @@ cv2.destroyAllWindows()
 ![output](https://github.com/RuchithaReddy28/Image-acquisition-from-web-camera/blob/main/a1.PNG?raw=true)
 
 ### ii) Display the video
-![output](https://github.com/RuchithaReddy28/Image-acquisition-from-web-camera/blob/main/r2.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Image-acquisition-from-web-camera/blob/main/a2.PNG?raw=true)
 
 ### iii) Display the video by resizing the window
-![output](https://github.com/RuchithaReddy28/Image-acquisition-from-web-camera/blob/main/r3.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Image-acquisition-from-web-camera/blob/main/a3.PNG?raw=true)
 
 ### iv) Rotate and display the video
-![output](https://github.com/RuchithaReddy28/Image-acquisition-from-web-camera/blob/main/r4.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Image-acquisition-from-web-camera/blob/main/a4.PNG?raw=true)
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
